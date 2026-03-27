@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "http://fi11.bot-hosting.net:20858/:splat"
+  status = 200
+  force = true
