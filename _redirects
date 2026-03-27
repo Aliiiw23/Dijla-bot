@@ -1,5 +1,1 @@
-[[redirects]]
-  from = "/*"
-  to = "http://fi11.bot-hosting.net:21143/:splat"
-  status = 200
-  force = true
+/* http://fi11.bot-hosting.net:21143/:splat  200!
